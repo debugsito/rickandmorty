@@ -80,3 +80,5 @@ botonPrev.addEventListener("click", (e) => {
         obtenerPersonajes(input.value, actualPage);
     }
 });
+
+obtenerPersonajes();
